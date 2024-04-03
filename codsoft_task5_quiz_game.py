@@ -6,6 +6,7 @@
 # Discription :
 # this command appplication simulation of a quiz game
 # user has to select the correct answer for the question displayed out there
+
 def main():
     # initial score set to 0
     score = 0
